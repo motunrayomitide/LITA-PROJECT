@@ -1,4 +1,4 @@
-# MY-LITA-PROJECT
+# PROJECT- LITA
 
 ## Project Title: E-Commerce Sales Analysis
 
