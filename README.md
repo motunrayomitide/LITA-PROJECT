@@ -26,3 +26,29 @@ The Key Matrics in this analysis are;
 * Line of business: Product Categories or Service type.
 * Revenue: Total monetary value of the Sale.
 * Unit sold: Quantity of item sold.
+
+## Data Cleaning and preperation
+In the initial Stage of preparation, the following actions were performed
+* Data Loading and inspection
+* data cleaning and formatting
+
+## Tool Used
+Microsoft excel
+ * For data cleaning
+ * For Analysis
+ * For Visualization.
+ 
+
+## Exploratory Data Analysis
+This involves exploring of data to answer some questions such as
+* What is the sales performance per region
+* What is the top selling prosuct
+* Which region generated the most revenue for both years(2014 and 2015).
+
+
+## Visual Analysis and Inferences.
+1. Revenue by Region.
+
+
+
+  
