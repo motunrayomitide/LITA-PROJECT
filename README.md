@@ -65,7 +65,19 @@ This involves exploring of data to answer some questions such as
 
 ![REV BY REG 2015](https://github.com/user-attachments/assets/d88121ab-fd55-4849-afbd-6066841d2c21)
 
-* Overall Revenue Trend: There is a noticable decline in the total revenue in all the regions from 2014 to 2015, which suggests that there is a potential challenge in the market conditions.
+* Overall Revenue Trend: Looking at the grand total for each year, We noticed a decline in the total revenue in all the regions from 2014 to 2015, which suggests that there is a potential challenge in the market conditions.
+
+
+3. Strategic implications and suggested solutions
+A decline in revenue across regions can stem from several factors,each with unique strategic implications and potential solutions, some of which are;
+
+Implications:
+* Market saturation or increased competitio: Lower sales may indicate that market are either saturated or competitors are offering more attractive alternatives..
+* Revenue decline culd also result from stockouts r poor inventory management which can affect customer satisfaction
+
+Suggested Solutions;
+* Competitors positioning should br reviewed and also enhancing in-store experiences should be considered.
+* investing in efficient inventory management system and diversifying suppliers to ensure the availability of product should be considered. 
 
 
 
