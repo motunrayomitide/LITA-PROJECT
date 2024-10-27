@@ -47,7 +47,28 @@ This involves exploring of data to answer some questions such as
 
 
 ## Visual Analysis and Inferences.
-1. Revenue by Region.
+1. REVENUE BY REGION
+
+![rev by reg ](https://github.com/user-attachments/assets/5c4a12b9-4a20-4cb7-9f92-ce7d436643cd)
+
+* Regional Performance: Regional performance for both years under analysis are sorted in descending order (Largest to Smallest) which are
+  * North East
+  * South West
+  * South South
+  * South East
+  * North West
+  * North Central.
+
+2. REVENUE BY REGION FILTERED BY YEARS.
+
+![rev by reg 2014](https://github.com/user-attachments/assets/2739b267-767e-4683-bdec-2b0263d98f62)
+
+![REV BY REG 2015](https://github.com/user-attachments/assets/d88121ab-fd55-4849-afbd-6066841d2c21)
+
+* Overall Revenue Trend: There is a noticable decline in the total revenue in all the regions from 2014 to 2015, which suggests that there is a potential challenge in the market conditions.
+
+
+
 
 
 
