@@ -145,3 +145,23 @@ The Analysis aim to achieve the following
 ## Key Metrics
 
 * Product
+* Region
+* Order date
+* Total sales
+
+
+## Data Cleaning and Preparation
+
+* Data Loading and Inspection
+* Handling missing Variables
+* Data Cleaning and Formatting
+
+
+## Tool Used
+
+* Microsoft Excel
+  * For Data Cleaning
+  * For Data Analysis
+  * For Visualization
+ 
+
