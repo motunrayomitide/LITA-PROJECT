@@ -7,12 +7,25 @@
 This project is targeted at analysing the Sales data of a retail store collected from different regions and stores. The objective of this sales analysis is to gain insights into key performance metrics across various dimensions of the sales data.. 
 
 The analysis aims to achieve the following:
+ * Revenue by Region: Measures the total revenue generated from each geographical area, helping to identify which region contribute the most financially
+ * Region by Unit sold: Tracks the number of unit sold in each region
+ * Revenue by Line of Business: Analyse revenue base on the line of business
+ * Average revenue by Region: Calculates the average revenue generated within each region
+
 
 ## Data Cleaning and Preparation
 
 In the initial Stage of preparation, the following actions were performed
 * Data Loading and Inspection
 * data cleaning and Formatting
+
+
+## Key Metrics
+ * Region: Geographical location of the sale
+ * Revenue: Total monetary value of the sale
+ * Line of Business: Product Categories or service type
+ * Unit sold: Quantity of items sold
+
 
 ## Tool Used
 Microsoft excel
