@@ -1,4 +1,4 @@
-# PROJECT- LITA DATA ANALYSIS(EXCEL)
+# PROJECT- LITA DATA ANALYSIS (EXCEL)
 
 ## Project Title: Sales Analysis Project
 
@@ -117,5 +117,6 @@ The region with the highest average revenue is North Central. we can deduce from
 * To maintain this, more focus should be on that particular product that is high priced to increase revenue in that region.
 
 
-  CONCLUSION
-Our analyses revealed that the North East region has the highest revenue  and also emerged as the top performing region in terms of units sold. it was also discovered that the Line of business "Service Plan" is the top selling product and finally, we found out that the region with the highest average revenue is North central as against North East having the highest total revenue. By implementing targeted intervntion such as reviewing competitors positioning in the regions, investing in efficient inventory management system, diversifying suppliers to ensure availability of product at all times, to prevent stockouts. More revenue should also be allocated to the top selling line of business which in this case is SERVICE PLAN and finally, focused should be on the high priced product in the region with high average revenue. in addition, Local warehouses,good logistics network and also distribution centers could be established across regions 
+CONCLUSION
+
+Our analysis revealed that the North East region has the highest revenue  and also emerged as the top performing region in terms of units sold. It was also discovered that the Line of business "Service Plan" is the top selling product and finally, we found out that the region with the highest average revenue is North central as against North East having the highest total revenue. By implementing targeted intervntion such as reviewing competitors positioning in the regions, investing in efficient inventory management system, diversifying suppliers to ensure availability of product at all times, to prevent stockouts. More revenue should also be allocated to the top selling line of business which in this case is SERVICE PLAN and finally, focused should be on the high priced product in the region with high average revenue. in addition, Local warehouses,good logistics network and also distribution centers could be established across regions 
