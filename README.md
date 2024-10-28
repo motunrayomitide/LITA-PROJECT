@@ -4,9 +4,11 @@
 
 
 ## Project Overview
-This project is targeted at analysing the Sales data of a retail store collected from different regions and stores. The objective of this sales analysis is to gain insights into key performance metrics across various dimensions of the sales data..
+This project is targeted at analysing the Sales data of a retail store collected from different regions and stores. The objective of this sales analysis is to gain insights into key performance metrics across various dimensions of the sales data.. 
 
 The analysis aims to achieve the following:
+
+## Data Cleaning and Preparation
 
 In the initial Stage of preparation, the following actions were performed
 * Data Loading and Inspection
