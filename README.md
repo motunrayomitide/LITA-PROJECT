@@ -163,5 +163,10 @@ The Analysis aim to achieve the following
   * For Data Cleaning
   * For Data Analysis
   * For Visualization
+
+
+## Exploratory Data Analysis
+
+This involves exploring of data to answer some questions such as
  
 
