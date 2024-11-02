@@ -123,6 +123,7 @@ Our analysis revealed that the North East region has the highest revenue  and al
 
 
 
+---
 # PROJECT 2
 
 # LITA-CAPSTONE-PROJECT
@@ -168,5 +169,23 @@ The Analysis aim to achieve the following
 ## Exploratory Data Analysis
 
 This involves exploring of data to answer some questions such as
- 
+* What is the Regional performance for each region
+* What is the Top selling Product
+* What is the Monthly Sales trend
+
+
+## Formula used
+ * Average Sales by Product:Calculated with AVERAGEIFS( =AVERAGEIFS(SALES RANGE, PRODUCT RANGE, PRODUCT NAME)
+ * Total Revenue by Region: calculated with SUMIFS(SUMIFS(REVENUE RANGE,REGION RANGE, REGION NAME)
+
+
+## Visual Analysis and Inferences.
+
+1. TOTAL SALES BY PRODUCT
+
+![Total Sales by Product](https://github.com/user-attachments/assets/47dfb536-b7df-43bb-b85d-ac278b72302c)
+
+INFERENCES
+
+
 
